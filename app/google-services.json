@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "737004076564",
+    "firebase_url": "https://liveci-deb21.firebaseio.com",
+    "project_id": "liveci-deb21",
+    "storage_bucket": "liveci-deb21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737004076564:android:3dd9376e8821d9bc",
+        "android_client_info": {
+          "package_name": "com.universidadean.liveci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737004076564-sub2q6mhgg4hpc85rbg2h2gh7v1dhrgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.universidadean.liveci",
+            "certificate_hash": "3d93c1ef0e9977c232ba430e8415299456f18cee"
+          }
+        },
+        {
+          "client_id": "737004076564-jbsafn41eb9ggi9tl0ug1kcthaqsbj5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCD93LIgRKKwW9BVTQtfM6uxrv84K2tq0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737004076564-jbsafn41eb9ggi9tl0ug1kcthaqsbj5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
